@@ -1,2 +1,3 @@
 # discover-typescript
-A repository to discover the benefits of typescripts
+
+A repository to discover a lot of Typescript features and patterns.

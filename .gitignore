@@ -1,0 +1,44 @@
+# Node modules
+node_modules/
+
+# Build artifacts
+dist/
+build/
+out/
+
+# Compiled JavaScript files
+*.js
+*.jsx
+*.mjs
+*.cjs
+
+# Source maps
+*.js.map
+*.jsx.map
+*.mjs.map
+*.cjs.map
+
+# TypeScript declaration maps
+*.d.ts.map
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables
+.env
+.env.*
+
+.build
